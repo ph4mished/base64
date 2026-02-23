@@ -1,2 +1,2 @@
 # BASE64_ENCODE-DECODE
-![hi](img/base_64.xcf)
+![screenshot](https://github.com/ph4mished/base64/tree/main/img/base_64.gif)
